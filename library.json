@@ -1,8 +1,8 @@
 {
   "name": "QRcodeEink",
   "version": "2.1.1",
-  "keywords": "qr code, ESP32, ESP8266, E-INK",
-  "description": "QR code generation for E-INK displays",
+  "keywords": "qr code, ESP32, ESP8266, E-INK, GxEPD, GxEPD2",
+  "description": "QR code generation for E-INK displays. Supports both GxEPD (classic) and GxEPD2 (newer) libraries.",
   "repository":
   {
     "type": "git",
